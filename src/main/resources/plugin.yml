@@ -1,0 +1,4 @@
+name: AeroAcceleration
+version: '${project.version}'
+main: com.comorichico.aeroacceleration.AeroAcceleration
+api-version: '1.20'
